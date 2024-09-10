@@ -25,5 +25,3 @@
 13. Once the key is created, you can access it using the Key Vault's URL and authenticate with appropriate credentials.
 
 14. Make sure to securely manage and protect the access to the Key Vault and its keys.
-
-15. You can now use the created key in your applications or services that require encryption or decryption operations.
